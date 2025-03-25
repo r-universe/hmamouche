@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "NlinTS"]
 	path = NlinTS
-	url = https://github.com/cran/NlinTS
+	url = https://github.com/hmamouche/nlints
